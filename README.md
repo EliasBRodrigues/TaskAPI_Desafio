@@ -3,7 +3,7 @@
 
 O projeto de gerenciamento de tarefas em Java tem como principal objetivo oferecer uma aplicação robusta e intuitiva para cadastro, atualização e exclusão de tarefas. Desenvolvido utilizando conceitos de programação orientada a objetos e padrões de design, o sistema visa proporcionar uma experiência eficiente e organizada para o usuário.
 
-## Funcionalidades
+## 📌 Funcionalidades
 
 ### Cadastro de Tarefas:
  `http://localhost:8080/tasks`
@@ -26,7 +26,7 @@ O projeto de gerenciamento de tarefas em Java tem como principal objetivo oferec
 ### Persistência de Dados:
 - Utilização de banco de dados (H2-Console) ou armazenamento em arquivo para persistir as informações das tarefas de forma segura e eficiente.
 
-## Acessos
+## 🔑 Acessos
 
 - Para acessar o banco de dados h2-console, utilize:
     - http:localhost:8080/h2-console
