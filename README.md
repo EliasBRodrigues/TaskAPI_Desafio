@@ -33,3 +33,8 @@ O projeto de gerenciamento de tarefas em Java tem como principal objetivo oferec
     - username: user
     - password: user
 - Utilize Postman ou Insominia para fazer as requisções com suas respectivas rotas.
+
+## Autores
+
+- [@Elias](https://www.github.com/EliasBRodrigues)
+
