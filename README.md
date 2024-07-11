@@ -1,7 +1,7 @@
 
 # TaskAPI_Desafio
 
-O projeto de gerenciamento de tarefas em Java tem como principal objetivo oferecer uma aplicação robusta e intuitiva para cadastro, atualização e exclusão de tarefas. Desenvolvido utilizando conceitos de programação orientada a objetos e padrões de design, o sistema visa proporcionar uma experiência eficiente e organizada para o usuário.
+O projeto de gerenciamento de tarefas em Java tem como principal objetivo oferecer uma aplicação para cadastro, atualização e exclusão de tarefas. Desenvolvido utilizando conceitos de programação orientada a objetos e padrões de design, o sistema visa proporcionar uma experiência organizada para o usuário.
 
 ## 📌 Funcionalidades
 
